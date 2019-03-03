@@ -8,4 +8,20 @@ Kimbul's health: 9.94m health
     Total raid DPS of 152,923 is required to meet the minimum timer. Currently at 125,000 DPS. 3K more dps per player or 19% more raid DPS.
   
 Frog strats:
-	Q: How many times does the frog appear? It
+	Q: How many times does the frog appear? It's static
+  	Kragwa's Wraith
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+//data from   https://www.warcraftlogs.com/reports/pMgCNc2fByjAJL9X   because the raid on the 26th had many members that were not in regular raid group (Shal and Sublime)
