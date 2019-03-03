@@ -1,0 +1,11 @@
+Heroic Conclave Notes
+Pa'Ku's wrath: Trigger is 1:04 and damage starts at 1:14. 60 seconds for each mechanic after that.
+  
+Kimbul's health: 9.94m health
+	Killing @ 0:45 -> 1:05
+  	To kill at 45 seconds w/ 9 dps we need 24,543 DPS per player.
+    To kill at 1:05 we need 16,991 DPS per player
+    Total raid DPS of 152,923 is required to meet the minimum timer. Currently at 125,000 DPS. 3K more dps per player or 19% more raid DPS.
+  
+Frog strats:
+	Q: How many times does the frog appear? It
