@@ -1,5 +1,5 @@
 Heroic Conclave Notes
-Pa'Ku's wrath: Trigger is 1:04 and damage starts at 1:14. 60 seconds for each mechanic after that.
+Pa'Ku's wrath: Trigger is 1:05 and damage starts at 1:15. 60 seconds for each mechanic after that.
   
 Kimbul's health: 9.94m health
 	Killing @ 0:45 -> 1:05
@@ -9,7 +9,30 @@ Kimbul's health: 9.94m health
   
 Frog strats:
 	Q: How many times does the frog appear? It's static
-  	Kragwa's Wraith
+  	
+    Kragwa's Wrath (4 jumps, lasts 15 seconds) every 50 seconds it spawns, jumps 4 times and then despawns. Starts at 25 seconds.
+    	1st: 0:25 -> 0:40
+      2nd: 1:15 -> 1:30
+  		3rd: 2:05 -> 2:20
+      4th: 2:55 -> 3:10
+      5th: 3:45 -> 4:00
+      6th: 4:35 -> 4:50
+      7th: 5:25 -> 5:40
+    
+    Pa'ku's Wrath
+    	1st 1:15 -> 1:30
+      2nd 2:15 -> 2:30
+      3rd 3:15 -> 3:30
+      4th 4:15 -> 4:30
+      5th 5:15 -> 5:30
+      6th 6:15-> 6:30
+      7th 7:15-> 7:30
+      
+      Overlaps (on paku wraths) Tank baits these
+      1st
+      2nd (one?)
+      5th
+      
   
   
   
@@ -17,8 +40,8 @@ Frog strats:
   
   
   
-  
-  
+  Raid will be stacked in the middle, tanks on either sides of the group to bait the frog
+  	Players that struggle with frog are going to be in the middle. Healer that is using CDs is also going to be in the middle (i.e tranq) This is only necessary for the 2nd and 
   
   
   
